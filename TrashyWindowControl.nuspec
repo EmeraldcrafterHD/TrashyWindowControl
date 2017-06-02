@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TrashyWindowControl</id>
+    <version>1.0.0</version>
+    <title>TrashyWindowControl</title>
+    <authors>EmeraldcrafterHD</authors>
+    <owners>EmeraldcrafterHD</owners>
+    <licenseUrl>https://github.com/EmeraldcrafterHD/WindowControl/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/EmeraldcrafterHD/WindowControl</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/EmeraldcrafterHD/TrashyWindowControl/master/TrashyWindowControl-Icon.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Control a Window in Windows!</description>
+    <copyright>Copyright © Sebastian Mayer 2017</copyright>
+    <tags>Window Control WindowControl</tags>
+  </metadata>
+</package>
