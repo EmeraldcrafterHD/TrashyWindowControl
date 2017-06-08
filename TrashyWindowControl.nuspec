@@ -4,11 +4,11 @@
     <id>TrashyWindowControl</id>
     <version>1.0.0</version>
     <title>TrashyWindowControl</title>
-    <authors>EmeraldcrafterHD</authors>
-    <owners>EmeraldcrafterHD</owners>
-    <licenseUrl>https://github.com/EmeraldcrafterHD/TrashyWindowControl/blob/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/EmeraldcrafterHD/TrashyWindowControl</projectUrl>
-    <iconUrl>https://raw.githubusercontent.com/EmeraldcrafterHD/TrashyWindowControl/master/TrashyWindowControl-Icon.png</iconUrl>
+    <authors>sh1n1xs</authors>
+    <owners>sh1n1xs</owners>
+    <licenseUrl>https://github.com/sh1n1xs/TrashyWindowControl/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/sh1n1xs/TrashyWindowControl</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/sh1n1xs/TrashyWindowControl/master/TrashyWindowControl-Icon.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>Control a Window in Windows!</description>
     <copyright>Copyright © 2017</copyright>
