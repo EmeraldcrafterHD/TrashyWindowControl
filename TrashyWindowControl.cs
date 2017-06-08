@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Runtime.InteropServices;
 
@@ -52,6 +52,12 @@ namespace TrashyWindowControl
                 {
                     throw new System.InvalidOperationException("Process doesn't (exist anymore)!");
                 }
+
+                if (this._process.MainWindowHandle == IntPtr.Zero)
+                {
+                    throw new System.InvalidOperationException("Process doesn't seem to have a window...");
+                }
+                
                 return this._process;
 
             }
@@ -121,7 +127,6 @@ namespace TrashyWindowControl
                 MoveWindow(this.process.MainWindowHandle, this.x, this.y, value, this.height, this._repaint);
             }
         }
-
 
 
         private RECT rect;
