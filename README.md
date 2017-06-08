@@ -1,2 +1,2 @@
 # TrashyWindowControl
-Control a Window in Windows! A nuget package :0
+Control a Window in Windows! A useless nuget package :0
