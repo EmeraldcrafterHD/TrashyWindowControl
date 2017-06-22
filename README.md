@@ -1,6 +1,7 @@
 # TrashyWindowControl
 Control a Window in Windows! A useless nuget package :0
 
+It allow you to get and set _x/y coordinates_, _high_ and _width_ from a window!
 
 ## How to install
 
