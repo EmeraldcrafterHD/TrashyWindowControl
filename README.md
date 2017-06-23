@@ -23,7 +23,7 @@ Then, set the process (make sure the process is already running) you want to con
     WindowControl twc = new WindowControl();
     twc.process = randomProcess;
 ```
-If you want, you can deactivate "Repaint", it's activated by default
+If you want, you can deactivate "Repaint", it's activated by default.
 When it's on, the system tells the window that you have moved, that it needs to be redrawn.
 
 In this example we deactivate it:
@@ -33,7 +33,7 @@ In this example we deactivate it:
     twc.Repaint = false;
 ```
 
-Now we can get or set _x/y coordinates_, _high_ and _width_ from the window of the process we set earlier
+Now we can get or set _x/y coordinates_, _high_ and _width_ from the window of the process we set earlier.
 For example:
 
 ``` csharp
